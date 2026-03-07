@@ -15,12 +15,6 @@ C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\Resta
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets\msbuild.RestaurantAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets\msbuild.RestaurantAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.RestaurantAPI.props
-C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestaurantAPI.props
-C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RestaurantAPI.props
-C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\RestaurantAPI.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\refint\RestaurantAPI.dll
@@ -186,3 +180,8 @@ C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\Resta
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
 C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\bin\Debug\net8.0\RestaurantAPI.staticwebassets.runtime.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\kamil\Desktop\Programowanie\Asp.net Core\Tutorial z udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json.cache

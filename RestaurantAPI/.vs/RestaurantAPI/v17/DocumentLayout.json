@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\services\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\models\\restaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\restaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\models\\validators\\restaurantqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\validators\\restaurantqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\privatefiles\\private-file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\privatefiles\\private-file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\asp.net core\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\restaurantapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\restaurantapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "RestaurantAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T19:07:49.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
+              "RelativeToolTip": "RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:19:39.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\PagedResult.cs",
+              "RelativeToolTip": "RestaurantAPI\\Models\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:13:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\RestaurantQuery.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\RestaurantQuery.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\RestaurantQuery.cs",
+              "RelativeToolTip": "RestaurantAPI\\Models\\RestaurantQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:10:07.345Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Program.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Program.cs",
-              "RelativeToolTip": "RestaurantAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Services\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Services\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Services\\RestaurantService.cs",
+              "RelativeToolTip": "RestaurantAPI\\Services\\RestaurantService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwDYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:01:41.141Z",
+              "WhenOpened": "2026-02-21T15:08:17.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "private-file.txt",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\PrivateFiles\\private-file.txt",
-              "RelativeDocumentMoniker": "RestaurantAPI\\PrivateFiles\\private-file.txt",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\PrivateFiles\\private-file.txt",
-              "RelativeToolTip": "RestaurantAPI\\PrivateFiles\\private-file.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-22T11:59:54.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestaurantAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
-              "RelativeDocumentMoniker": "RestaurantAPI\\RestaurantAPI.csproj",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
-              "RelativeToolTip": "RestaurantAPI\\RestaurantAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T11:59:12.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\FileController.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Controllers\\FileController.cs",
-              "RelativeToolTip": "RestaurantAPI\\Controllers\\FileController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwA0AAAAIAAAAAAAAAA==",
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "RestaurantAPI\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:56:15.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T15:08:10.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Program.cs",
+              "RelativeToolTip": "RestaurantAPI\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:27:25.842Z"
             }
           ]
         }

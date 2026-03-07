@@ -109,7 +109,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "RestaurantAPI.Entities.Restaurant",
+        "Type": "RestaurantAPI.Models.RestaurantDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

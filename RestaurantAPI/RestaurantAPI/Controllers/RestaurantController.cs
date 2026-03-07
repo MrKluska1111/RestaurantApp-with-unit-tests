@@ -46,7 +46,7 @@ namespace RestaurantAPI.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult<Restaurant> Get([FromRoute]int id)
+        public ActionResult<RestaurantDto> Get([FromRoute]int id)
         {
             var restaurant = _restaurantService.GetById(id);
 
