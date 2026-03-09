@@ -503,3 +503,4 @@ C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI.IntegrationTests\bin\Debug\net8.0\RestaurantAPI.pdb
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI.IntegrationTests\obj\Debug\net8.0\MvcTestingAppManifest.json
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI.IntegrationTests\obj\Debug\net8.0\RestaurantAPI.IntegrationTests.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI.IntegrationTests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

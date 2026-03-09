@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{ADD50D6E-84A0-4958-A8B9-35C08AB44E52}|RestaurantAPI.IntegrationTests\\RestaurantAPI.IntegrationTests.csproj|solutionrelative:restaurantapi.integrationtests\\restaurantcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\entities\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\entities\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\models\\validators\\restaurantqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\validators\\restaurantqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\models\\restaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\models\\restaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\kamil\\desktop\\programowanie\\testy jednostkowe\\tutorial z udemy\\projekt\\restaurantapi\\restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A195FB-0F03-4528-8670-DA32FCA4F01E}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RestaurantQueryValidator.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
-              "RelativeToolTip": "RestaurantAPI\\Models\\Validators\\RestaurantQueryValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "RelativeToolTip": "RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T15:35:50.276Z",
+              "WhenOpened": "2026-03-09T17:09:33.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestaurantQuery.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\RestaurantQuery.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Models\\RestaurantQuery.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Models\\RestaurantQuery.cs",
-              "RelativeToolTip": "RestaurantAPI\\Models\\RestaurantQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Program.cs",
+              "RelativeToolTip": "RestaurantAPI\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowGIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T15:21:53.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RestaurantController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Controllers\\RestaurantController.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\RestaurantController.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\Controllers\\RestaurantController.cs",
-              "RelativeToolTip": "RestaurantAPI\\Controllers\\RestaurantController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T15:20:08.849Z",
+              "WhenOpened": "2026-03-09T13:39:30.549Z",
               "EditorCaption": ""
             },
             {
@@ -78,7 +62,7 @@
               "RelativeDocumentMoniker": "RestaurantAPI.IntegrationTests\\RestaurantControllerTests.cs",
               "ToolTip": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI.IntegrationTests\\RestaurantControllerTests.cs",
               "RelativeToolTip": "RestaurantAPI.IntegrationTests\\RestaurantControllerTests.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T12:15:15.593Z",
               "EditorCaption": ""

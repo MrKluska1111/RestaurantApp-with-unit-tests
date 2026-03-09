@@ -4,6 +4,12 @@ namespace RestaurantAPI.Entities
 {
     public class RestaurantDbContext : DbContext
     {
+        public RestaurantDbContext(DbContextOptions<RestaurantDbContext> options)
+            : base(options)
+        {
+
+        }
+
         private string _connectionString = "Server=KAMIL;Database=RestaurantDb;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;";
         public DbSet<Restaurant> Restaurants { get; set; }
         public DbSet<Address> Addresses { get; set; }
@@ -41,9 +47,9 @@ namespace RestaurantAPI.Entities
                 .HasMaxLength(50);
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(_connectionString);
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlServer(_connectionString);
+        //}
     }
 }
