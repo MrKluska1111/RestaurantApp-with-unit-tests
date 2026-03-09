@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4edpCx9Y3PE=",
+  "dgSpecHash": "L9GBgAidTqs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Asp.net Core\\Tutorial z udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+  "projectFilePath": "C:\\Users\\kamil\\Desktop\\Programowanie\\Testy jednostkowe\\Tutorial z Udemy\\Projekt\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kamil\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
