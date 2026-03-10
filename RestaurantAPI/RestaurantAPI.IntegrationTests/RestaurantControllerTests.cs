@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Mvc.Testing;
 using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
 using RestaurantAPI.Entities;
+using RestaurantAPI.Models;
+using Newtonsoft.Json;
+using System.Text;
+using Microsoft.AspNetCore.Authorization.Policy;
 
 
 namespace RestaurantAPI.IntegrationTests
@@ -13,22 +17,26 @@ namespace RestaurantAPI.IntegrationTests
 
         public RestaurantControllerTests(WebApplicationFactory<Program> factory)
         {
-             _client = factory
-                .WithWebHostBuilder(builder =>
-                {
-                    builder.ConfigureServices(services =>
-                    {
-                        var dbContextOptions = services
-                        .SingleOrDefault(service => service.ServiceType == typeof(DbContextOptions<RestaurantDbContext>));
+            _client = factory
+               .WithWebHostBuilder(builder =>
+               {
+                   builder.ConfigureServices(services =>
+                   {
+                       var dbContextOptions = services
+                       .SingleOrDefault(service => service.ServiceType == typeof(DbContextOptions<RestaurantDbContext>));
 
-                        services.Remove(dbContextOptions);
+                       services.Remove(dbContextOptions);
 
-                        services.AddDbContext<RestaurantDbContext>(optionms => optionms.UseInMemoryDatabase("RestaurantDb"));
-                        //the parameter name is arbitrary
+                       services.AddSingleton<IPolicyEvaluator, FakePolicyEvaluator>();
 
-                    });
-                })
-                .CreateClient();
+                       services.AddMvc(option => option.Filters.Add(new FakeUserFilter()));
+
+                       services.AddDbContext<RestaurantDbContext>(options => options.UseInMemoryDatabase("RestaurantDb"));
+                       //the parameter name is arbitrary
+
+                   });
+               })
+               .CreateClient();
         }
 
         [Theory]
@@ -61,6 +69,39 @@ namespace RestaurantAPI.IntegrationTests
             //assert
             response.StatusCode.Should().Be(System.Net.HttpStatusCode.BadRequest);
 
+
+        }
+
+        [Fact]
+        public async Task CreateRestaurant_WithValidModel_ReturnsCreatedStatus()
+        {
+            //arrange
+            var model = new CreateRestaurantDto()
+            {
+                Name = "TestRestaurant",
+                Description = "test",
+                Category = "test",
+                ContactEmail = "test",
+                ContactNumber = "123456789",
+                City = "Kraków",
+                Street = "Długa 5",
+                PostalCode = "12345"
+            };
+
+            var json = JsonConvert.SerializeObject(model);
+
+            var httpContent = new StringContent(json, UnicodeEncoding.UTF8, "application/json");
+
+            //act
+            var response = await _client.PostAsync("/api/restaurant", httpContent);
+
+            //Checking error information
+            var body = await response.Content.ReadAsStringAsync();
+            Console.WriteLine(body);
+
+            //assert
+            response.StatusCode.Should().Be(System.Net.HttpStatusCode.Created);
+            response.Headers.Location.Should().NotBeNull();
 
         }
     }

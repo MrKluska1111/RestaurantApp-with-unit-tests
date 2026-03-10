@@ -17,3 +17,16 @@ C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kamil\Desktop\Programowanie\Testy jednostkowe\Tutorial z Udemy\Projekt\RestaurantAPI\RestaurantAPI\obj\Debug\net8.0\staticwebassets.build.json
